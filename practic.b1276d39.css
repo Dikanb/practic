@@ -14,7 +14,9 @@
 
 @media (width >= 1500px) {
   .people {
-    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: repeat(4, 1fr);
+    margin-left: 305px;
+    margin-right: 305px;
   }
 }
 
